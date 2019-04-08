@@ -25,7 +25,7 @@ namespace Capgemini.Xrm.SolutionAudit.Console
             var _logger = new ConsoleLogger();
             var repository = new SolutionRepository(new CrmServiceClient(CrmConnectionString), _logger);
             var solutionAuditor = new CrmAuditor(repository, _logger);
-            var publisherFilter = new List<string> { "Capgemini" };
+            var publisherFilter = new List<string> { "Dynamics 365" };
 
             var crmInstance = solutionAuditor.AuditCrmInstance(InstanceName, publisherFilter);
 
