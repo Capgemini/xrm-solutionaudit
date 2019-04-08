@@ -1,6 +1,6 @@
-#Xrm Solution Audit
+# Xrm Solution Audit
 
-##Description
+## Description
 
 The Xrm Solution Audit supports a full analysis of specific components contained within any managed solutions in Microsoft Dynamics 365. This audit solution can target multiple versions of Microsoft Dynamics - CRM 2011, 2015, 2016 and Dynamics 365.
 
@@ -20,7 +20,7 @@ Each report captures the following details - though it depends on the chosen out
 * Forms and Form Events
 * Reports
 
-##Table Of Contents
+## Table Of Contents
 1. [Installation](#installation)  
 2. [Usage](#usage) 
 3. [Contributing](#contributing) 
@@ -32,7 +32,7 @@ Each report captures the following details - though it depends on the chosen out
 [![Build status](https://capgeminiuk.visualstudio.com/Capgemini Reusable IP/_apis/build/status/NUGET CI Builds/CRM%20SolutionAudit%20NUGET)](https://capgeminiuk.visualstudio.com/Capgemini Reusable IP/_build/latest?definitionId=61)
 
 
-##Installation
+## Installation
 
 The Xrm Solution Audit is currently released via [NuGet](https://www.nuget.org/) and as such can be consumed from the following feed: [Xrm.SolutionAudit]({URL HERE}).
 
@@ -46,15 +46,15 @@ A reference to the above NuGet feed must be added to any application that intend
 
 A detailed documentation about this tool can be found in the following wiki: 
 
-##Contributing
+## Contributing
 
 To contribute to this project, report any bugs, submit new feature requests, submit changes via pull requests or even join in the overall design of the tool.
 
-##Credits
+## Credits
 
 Special thanks to the entire Capgemini community for their support in developing this tool.
 
-##License
+## License
 The Xrm Solution Audit is released under the [MIT](LICENSE) license.
 
 
