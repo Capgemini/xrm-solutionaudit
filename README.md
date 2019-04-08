@@ -19,7 +19,7 @@ This tool is a .NET library that is intended to be consumed from any .NET applic
 
 On completion of each audit, audit reports are generated which can be in any of the following formats:
 * Excel Worksheet
-* HTML site
+* HTML
 * JSON
 * XML
 
