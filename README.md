@@ -1,6 +1,6 @@
 # Xrm Solution Audit
 
-## Table Of Contents
+## Table of Contents
 1. [Description](#description) 
 2. [Installation](#installation) 
 3. [Usage](#usage) 
