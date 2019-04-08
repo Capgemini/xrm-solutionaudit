@@ -34,7 +34,7 @@ Each report captures the following details - though it depends on the chosen out
 
 ## Installation
 
-The Xrm Solution Audit is currently released via [NuGet](https://www.nuget.org/) and as such can be consumed from the following feed: [Xrm.SolutionAudit]({URL HERE}).
+The Xrm Solution Audit is currently released via [NuGet](https://www.nuget.org/) and as such can be consumed from the following feed: [Capgemini Xrm Audit Reports](https://www.nuget.org/packages/Capgemini.Xrm.Audit.Reports/).
 
 A reference to the above NuGet feed must be added to any application that intends to consume the solution audit tool. To achieve this, perform the following steps:
 1. Right-click on the project node in Solution Explorer and choose Mange NuGet Packages
