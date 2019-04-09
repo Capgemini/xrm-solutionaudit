@@ -35,6 +35,8 @@ Current build status: <img src="https://capgeminiuk.visualstudio.com/Capgemini R
 
 ## Installation
 
+***Requires the .NET Framework version set to 4.6.2**
+
 The Xrm Solution Audit tool is released via [NuGet](https://www.nuget.org/) and as such can be consumed from the following feed: [Capgemini Xrm Audit Reports](https://www.nuget.org/packages/Capgemini.Xrm.Audit.Reports/).
 
 A reference to the above NuGet feed must be added to any application that intends to consume the solution audit tool.
