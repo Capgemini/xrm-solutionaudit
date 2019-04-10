@@ -1,5 +1,7 @@
 # Xrm Solution Audit
 
+Current build status: <img src="https://capgeminiuk.visualstudio.com/Capgemini Reusable IP/_apis/build/status/NUGET CI Builds/CRM%20SolutionAudit%20NUGET" alt="CI Build status">
+
 ## Description
 
 The Xrm Solution Audit supports a full analysis of specific components contained within any managed solutions in Microsoft Dynamics 365. This audit solution can target multiple versions of Microsoft Dynamics - CRM 2011, 2015, 2016 and Dynamics 365.
@@ -30,8 +32,6 @@ The output from each execution of the tool captures the following information.
 4. [Credits](#credits) 
 5. [License](#license)
   
-
-Current build status: <img src="https://capgeminiuk.visualstudio.com/Capgemini Reusable IP/_apis/build/status/NUGET CI Builds/CRM%20SolutionAudit%20NUGET" alt="CI Build status">
 
 ## Installation
 
