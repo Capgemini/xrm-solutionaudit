@@ -61,7 +61,10 @@ To contribute to this project
 
 ## Credits
 
-Special thanks to the entire Capgemini community for their support in developing this tool.
+Special thanks to the entire Capgemini community and the creators of the following:
+* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json)
+* [Fast Member](https://github.com/mgravell/fast-member)
+* [ClosedXML](https://github.com/ClosedXML/ClosedXML)
 
 ## License
 The Xrm Solution Audit is released under the [MIT](LICENSE) license.
